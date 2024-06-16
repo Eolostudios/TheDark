@@ -10,6 +10,70 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "RestartEditor",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a00eb1e478ae4a8fb655aa22f9125b07"
+		},
+		{
+			"Name": "AutoSizeComments",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ae89a2c4ab384de0a3f213b23de324f3"
+		},
+		{
+			"Name": "ElectronicNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
+		},
+		{
+			"Name": "BetterDebug",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/fc6e60a69f9d4125aee732a0f9dd86bf",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
+		},
+		{
+			"Name": "MissNoHit",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2986eaeb54174df8b21a5168d28daa4b"
+		},
+		{
+			"Name": "BlueprintAttributes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/28504afab17e48babd161baa61a87d05"
+		},
+		{
+			"Name": "GASCompanion",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d83c6f34c3fb4b7092dde195c37c7413"
+		},
+		{
+			"Name": "EasyMultiSave",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7232621c23174bbbbb64c7bfb6583f6f"
+		},
+		{
+			"Name": "ActorPoolSubsystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher//ue/marketplace/product/29d4ef0f07b5408fb3cb4c847ba1839b"
+		},
+		{
+			"Name": "AimAssistSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/23b74dcd4fd84a968c21a67f3a4be0d6"
+		},
+		{
+			"Name": "EnhancedCodeFlow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0e9dd2a8f807456da0fe6af280ab795c"
+		},
+		{
+			"Name": "TargetSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/6bd21ce58d6e4cb295f71bd370233f53"
 		}
 	]
 }
